@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-> Add your deployed link here (Vercel / Netlify)
+> https://gespyai.vercel.app
 
 ---
 
