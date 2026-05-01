@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="1200" height="400" alt="Gespy AI Banner" src="[https://via.placeholder.com/1200x400/0f172a/ffffff?text=GESPY+AI+%E2%9A%A1+Lead+Generation+Engin](https://kommodo.ai/i/bXIX8GIBGva7KXZGee3u)e" />
-
 <h1>🚀 Gespy AI</h1>
 
 <p><b>AI-powered lead generation tool to find emails, contacts, and business data instantly</b></p>
